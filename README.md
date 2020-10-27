@@ -7,3 +7,4 @@ A place for my resume and portfolio
 
 [LinkedIn URL](https://www.linkedin.com/in/roshanchittoorrahim/)
 
+[Sample of my writing](https://github.com/roshanchittoor/Portfolio/blob/master/AWS%20Management%20Console%20(Assignment).pdf)
